@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Furkan Atak</h1>
 <h3 align="center">A passionate software and Ai engineer.</h3>
 
+- You can check my resume here [resume](https://github.com/furkanatak37/furkanatak37/blob/main/Muhammed%20Furkan%20Atak.pdf)
+
 - 🌱 I’m currently learning **Ai and network**
 
 - 📫 How to reach me **furkanatak.work@gmail.com**
