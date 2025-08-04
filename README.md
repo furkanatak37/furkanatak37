@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **furkanatak.work@gmail.com**
 
-- <h2 align="left"> Study </h2>
-- 🎓️ Computer Engineer - Marmara University
+- <h2 align="left"> 🎓️  Study </h2>
+- Computer Engineer - Marmara University (2021-2026)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
